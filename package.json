@@ -1,0 +1,17 @@
+{
+  "name": "humanize-ordinal",
+  "version": "1.0.0",
+  "description": "Tiny ordinal humanization utilizing Intl.PluralRules",
+  "keywords": [
+    "humanize",
+    "ordinal",
+    "number",
+    "suffix",
+    "intl",
+    "plural-rules"
+  ],
+  "bugs": "https://github.com/shvaikalesh/humanize-ordinal/issues",
+  "license": "MIT",
+  "author": "Aleksey Shvayka <shvaikalesh@gmail.com>",
+  "repository": "shvaikalesh/humanize-ordinal"
+}
